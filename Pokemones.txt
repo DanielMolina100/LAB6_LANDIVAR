@@ -1,0 +1,2 @@
+Tepig, 498, 5, Squirtle, 7, 1, Victini, 494, 5,Pikachu, 25, 1,Raichu, 26, 1,Zubat, 41, 1, Ratata, 19, 1, Mewtwo, 150, 1,Lucario, 448, 4,Deoxys, 386, 3, 
+

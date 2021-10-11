@@ -1,0 +1,3 @@
+C:\Users\josda\source\repos\Lab6_Jose_Molina_1007420\Lab6_Jose_Molina_1007420\Debug\Lab6_Jose_Molina_1007420.vcxprojAssemblyReference.cache
+C:\Users\josda\source\repos\Lab6_Jose_Molina_1007420\Lab6_Jose_Molina_1007420\Debug\Lab6JoseMolina1007420.MyForm.resources
+C:\Users\josda\source\repos\Lab6_Jose_Molina_1007420\Lab6_Jose_Molina_1007420\Debug\Lab6_Jose_Molina_1007420.vcxproj.GenerateResource.cache
